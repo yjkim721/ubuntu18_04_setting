@@ -26,8 +26,8 @@ $ sudo rm -rf /etc/apt/sources.list.d/google.list
 
 
 ## 4. Ubuntu 18.04 Theme
-- Reference: [link](https://geundung.dev/89)
-- Background Image I used: [link](https://drive.google.com/file/d/1X65t85dT9WmrPhnN-N13f0T3vYlkMNbK/view?usp=sharing)
+- Reference: [Link](https://geundung.dev/89)
+- Background Image I used: [Link](https://drive.google.com/file/d/1X65t85dT9WmrPhnN-N13f0T3vYlkMNbK/view?usp=sharing)
 ~~~
 $ sudo apt-get install gnome-tweak-tool
 $ sudo add-apt-repository ppa:tista/adapta
