@@ -44,7 +44,7 @@ $ sudo apt-get install flat-remix
 - Prefered Extension: Material Theme, Live share, gitlens, python, LaTeX Workshop
 
 ## ETC
-- Slack: https://slack.com/intl/en-kr/ , [download](https://slack.com/intl/en-kr/downloads/linux)
+- Slack: https://slack.com/intl/en-kr/ , [Download](https://slack.com/intl/en-kr/downloads/linux)
 - LaTEX: [Reference](https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d)
 ~~~
 sudo apt-get install texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
