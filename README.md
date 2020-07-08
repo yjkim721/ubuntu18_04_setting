@@ -20,9 +20,9 @@ $ sudo rm -rf /etc/apt/sources.list.d/google.list
 
 ## 3. Chrome-remote-desktop
 - Step1: [Link1](https://m.blog.naver.com/PostView.nhn?blogId=hdh7485&logNo=221444127526&proxyReferer=https:%2F%2Fwww.google.com%2F)   
-	:star2: **IMPORTANT!** :star2: Don't forget to create '.chrome-remote-desktop-session' 
+	:star2: **IMPORTANT** :star2: Don't forget to create '.chrome-remote-desktop-session' 
 - Step2: [Link2](https://m.blog.naver.com/PostView.nhn?blogId=hdh7485&logNo=221444142342&targetKeyword=&targetRecommendationCode=1)   
-	:star2: **IMPORTANT!** :star2: For ubuntu 18.04, FIRST_X_DISPLAY_NUMBER = 1 
+	:star2: **IMPORTANT** :star2: For ubuntu 18.04, FIRST_X_DISPLAY_NUMBER = 1 
 
 
 ## 4. Ubuntu 18.04 Theme
