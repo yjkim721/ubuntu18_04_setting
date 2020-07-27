@@ -45,6 +45,9 @@ $ sudo apt-get install flat-remix
 
 ## 6. Vim
 - copy attached *vimrc* to *~./vimrc*
+~~~
+$ vi ~/.vimrc
+~~~
 - Version Check
 ~~~
 $ ls -al /usr/share/vim/
