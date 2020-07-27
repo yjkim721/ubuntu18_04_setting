@@ -44,6 +44,7 @@ $ sudo apt-get install flat-remix
 - Prefered Extension: Material Theme, Live share, gitlens, python, LaTeX Workshop
 
 ## 6. Vim
+- copy *vimrc* to *~./vimrc*
 - Version Check
 ~~~
 $ ls -al /usr/share/vim/
@@ -51,7 +52,7 @@ $ ls -al /usr/share/vim/
 - Download Colorscheme from [here](https://github.com/nanotech/jellybeans.vim)
 - Move colorscheme to vim colors folder
 ~~~
-$ mv jellybeans.vim /usr/share/vim/vim80/colors/jellybeans.vim
+$ sudo mv jellybeans.vim /usr/share/vim/vim80/colors
 ~~~
 
 ## ETC
