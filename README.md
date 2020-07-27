@@ -44,7 +44,7 @@ $ sudo apt-get install flat-remix
 - Prefered Extension: Material Theme, Live share, gitlens, python, LaTeX Workshop
 
 ## 6. Vim
-- copy *vimrc* to *~./vimrc*
+- copy attached *vimrc* to *~./vimrc*
 - Version Check
 ~~~
 $ ls -al /usr/share/vim/
