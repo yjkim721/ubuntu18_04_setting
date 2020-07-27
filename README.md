@@ -43,6 +43,17 @@ $ sudo apt-get install flat-remix
 - Reference: [Link](https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-18-04/)
 - Prefered Extension: Material Theme, Live share, gitlens, python, LaTeX Workshop
 
+## 6. Vim
+- Version Check
+~~~
+$ ls -al /usr/share/vim/
+~~~
+- Download Colorscheme from [here](https://github.com/nanotech/jellybeans.vim)
+- Move colorscheme to vim colors folder
+~~~
+$ mv jellybeans.vim /usr/share/vim/vim80/colors/jellybeans.vim
+~~~
+
 ## ETC
 - Slack: https://slack.com/intl/en-kr/ , [Download](https://slack.com/intl/en-kr/downloads/linux)
 - LaTEX: [Reference](https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d)
