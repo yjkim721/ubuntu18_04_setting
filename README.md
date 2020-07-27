@@ -48,14 +48,10 @@ $ sudo apt-get install flat-remix
 ~~~
 $ vi ~/.vimrc
 ~~~
-- Version Check
-~~~
-$ ls -al /usr/share/vim/
-~~~
 - Download Colorscheme from [here](https://github.com/nanotech/jellybeans.vim)
 - Move colorscheme to vim colors folder
 ~~~
-$ sudo mv jellybeans.vim /usr/share/vim/vim80/colors
+$ sudo mv jellybeans.vim /usr/share/vim/vim*/colors
 ~~~
 
 ## ETC
