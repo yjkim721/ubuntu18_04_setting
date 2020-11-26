@@ -48,6 +48,7 @@ $ sudo apt-get install flat-remix
 ## 6. Vim
 - copy attached *vimrc* to *~./vimrc*
 ~~~
+$ sudo apt-get install vim
 $ vi ~/.vimrc
 ~~~
 - Download Colorscheme from [here](https://github.com/nanotech/jellybeans.vim)
